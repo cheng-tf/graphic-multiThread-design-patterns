@@ -1,7 +1,7 @@
 package cn.edu.bupt.opensource.ActiveObject.A12_2a;
 
-import activeobject.ActiveObject;
-import activeobject.ActiveObjectFactory;
+import cn.edu.bupt.opensource.ActiveObject.A12_2a.activeobject.ActiveObject;
+import cn.edu.bupt.opensource.ActiveObject.A12_2a.activeobject.ActiveObjectFactory;
 
 public class Main {
     public static void main(String[] args) {

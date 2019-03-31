@@ -1,6 +1,6 @@
 package cn.edu.bupt.opensource.ActiveObject.jucSample;
 
-import cn.edu.bupt.opensource.ActiveObject.Sample.activeobject.ActiveObject;
+import cn.edu.bupt.opensource.ActiveObject.jucSample.activeobject.ActiveObject;
 
 import java.util.concurrent.CancellationException;
 import java.util.concurrent.ExecutionException;

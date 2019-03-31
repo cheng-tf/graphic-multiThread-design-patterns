@@ -16,6 +16,7 @@ public class AddClientThread extends Thread {
         this.activeObject = activeObject;
     }
 
+    @Override
     public void run() {
         try {
             for (int i = 0; true; i++) {

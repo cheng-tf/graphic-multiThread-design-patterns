@@ -1,0 +1,5 @@
+package cn.edu.bupt.opensource.ActiveObject.A12_3b.searcher;
+
+public abstract class Searcher {
+    public abstract void search(String word, Display display);
+}

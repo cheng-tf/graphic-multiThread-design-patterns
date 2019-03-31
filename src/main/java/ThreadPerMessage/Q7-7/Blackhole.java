@@ -8,6 +8,6 @@ public class Blackhole {
         }
     }
 
-（接下来请完成magic方法的编写）
+    // 接下来请完成magic方法的编写
 
 }
